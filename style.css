@@ -23,3 +23,23 @@ img {
     display: block;
 
 }
+
+h2 {
+
+    color: black;
+}
+ 
+
+h2 {
+    background-color: rgb(10, 170, 230);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
